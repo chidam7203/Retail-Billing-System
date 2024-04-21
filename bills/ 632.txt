@@ -1,0 +1,14 @@
+x		**Welcome Customer**
+
+Bill Number: 632
+Customer Name: 
+Customer phone Number: 
+==================================================Product		Quantity			Price
+==================================================
+--------------------------------------------------
+ Cosmetic Tax:				0.0 Rs
+ Grocery Tax:				0.0 Rs
+ Cold Drinks Tax:				0.0 Rs
+
+Total bill: 			0.0 Rs
+--------------------------------------------------

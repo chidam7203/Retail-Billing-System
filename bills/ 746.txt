@@ -1,0 +1,18 @@
+		**Welcome Customer**
+
+Bill Number: 746
+Customer Name: 
+Customer phone Number: 
+==================================================
+Product		Quantity			Price
+==================================================
+Bath Soap:		1			20Rs
+Oil:		012			1440Rs
+Red Bull:		212			4240Rs
+--------------------------------------------------
+ Cosmetic Tax:				2.4 Rs
+ Grocery Tax:				72.0 Rs
+ Cold Drinks Tax:				212.0 Rs
+
+Total bill: 			5986.4 Rs
+--------------------------------------------------

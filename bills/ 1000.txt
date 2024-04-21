@@ -1,0 +1,20 @@
+		**Welcome Customer**
+
+Bill Number: 1000
+Customer Name: chidambaram
+Customer phone Number: 6369749131
+==================================================
+Product		Quantity			Price
+==================================================
+Bath Soap:		1			20Rs
+Sugar:		00			0Rs
+Wheat:		2			160Rs
+Red Bull:		1			20Rs
+Frooti:		1			45Rs
+--------------------------------------------------
+ Cosmetic Tax:				2.4 Rs
+ Grocery Tax:				8.0 Rs
+ Cold Drinks Tax:				3.25 Rs
+
+Total bill: 			258.65 Rs
+--------------------------------------------------

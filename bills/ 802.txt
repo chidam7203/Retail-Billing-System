@@ -1,0 +1,16 @@
+		**Welcome Customer**
+
+Bill Number: 802
+Customer Name: chi
+Customer phone Number: 123
+==================================================
+Product		Quantity			Price
+==================================================
+Bath Soap:		22			440Rs
+--------------------------------------------------
+ Cosmetic Tax:				52.8 Rs
+ Grocery Tax:				0.0 Rs
+ Cold Drinks Tax:				0.0 Rs
+
+Total bill: 			492.8 Rs
+--------------------------------------------------

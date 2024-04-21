@@ -1,0 +1,17 @@
+		**Welcome Customer**
+
+Bill Number: 542
+Customer Name: chi
+Customer phone Number: 123344
+==================================================
+Product		Quantity			Price
+==================================================
+hair Spray:		11			1650Rs
+Sugar:		1			50Rs
+--------------------------------------------------
+ Cosmetic Tax:				198.0 Rs
+ Grocery Tax:				2.5 Rs
+ Cold Drinks Tax:				0.0 Rs
+
+Total bill: 			1900.5 Rs
+--------------------------------------------------

@@ -1,0 +1,16 @@
+		**Welcome Customer**
+
+Bill Number: 756
+Customer Name: c
+Customer phone Number: 123
+==================================================
+Product		Quantity			Price
+==================================================
+Bath Soap:		1			20Rs
+--------------------------------------------------
+ Cosmetic Tax:				2.4 Rs
+ Grocery Tax:				0.0 Rs
+ Cold Drinks Tax:				0.0 Rs
+
+Total bill: 			22.4 Rs
+--------------------------------------------------

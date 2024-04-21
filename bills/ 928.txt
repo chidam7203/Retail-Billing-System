@@ -1,0 +1,18 @@
+		**Welcome Customer**
+
+Bill Number: 928
+Customer Name: chiru
+Customer phone Number: 123
+==================================================
+Product		Quantity			Price
+==================================================
+Bath Soap:		2			40Rs
+Dall:		2			200Rs
+Red Bull:		2			40Rs
+--------------------------------------------------
+ Cosmetic Tax:				4.8 Rs
+ Grocery Tax:				10.0 Rs
+ Cold Drinks Tax:				2.0 Rs
+
+Total bill: 			296.8 Rs
+--------------------------------------------------

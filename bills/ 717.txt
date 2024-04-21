@@ -1,0 +1,18 @@
+		**Welcome Customer**
+
+Bill Number: 717
+Customer Name: chi
+Customer phone Number: 123
+==================================================
+Product		Quantity			Price
+==================================================
+Bath Soap:		01			20Rs
+Rice:		11			330Rs
+Maaza:		01			50Rs
+--------------------------------------------------
+ Cosmetic Tax:				2.4 Rs
+ Grocery Tax:				16.5 Rs
+ Cold Drinks Tax:				2.5 Rs
+
+Total bill: 			421.4 Rs
+--------------------------------------------------
